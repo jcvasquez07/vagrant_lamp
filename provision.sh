@@ -125,12 +125,13 @@ sudo mv composer.phar /usr/local/bin/composer
 
 #
 #   ngrok
+#   para instalar se requiere un token personal de https://ngrok.com
 #
 
-echo -e "\n--- Instalando Ngrok ---\n"
+#echo -e "\n--- Instalando Ngrok ---\n"
 
-sudo snap install ngrok 
-ngrok authtoken 1h0idkeM9Bk2X4MfAjnxSdlrQTx_7xLtZNdAesFWF6araXd35
+#sudo snap install ngrok 
+#ngrok authtoken [token personal]
 
 #
 #   Finalizando
