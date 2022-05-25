@@ -2,10 +2,10 @@
 Archivos de configuración para crear un ambiente LAMP en Ubuntu 22.04 usando vagrant
 
 ## ¿Qué se incluye?
-- Apache 2
-- PHP 8.1
-- MySQL 
-- phpMyAdmin
+- Apache 2.4.48
+- PHP 8.1.6
+- MySQL 8.0.29
+- phpMyAdmin 5.0.4
 - Adminer 4.8.1
 - Git
 - Composer
